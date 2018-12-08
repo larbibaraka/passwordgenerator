@@ -1,10 +1,8 @@
 This project is for learning 
 
-  *techs that i used are :
-	->react
-		 
-
-## Avail
+  -techs that i used are :
+         -react
+		
 In the project directory, you can run:
 
 ### `npm start`
